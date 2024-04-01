@@ -8,7 +8,7 @@ https://youtu.be/uV6kO645-Xk
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/mashady/issue-tracker-by-abu/main/promo/issues-tracker-promo.png)
 
 ## Tech Stack
 
